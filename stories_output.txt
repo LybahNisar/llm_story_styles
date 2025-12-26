@@ -1,0 +1,179 @@
+=== FORMAL STYLE ===
+In the quiet solitude of his attic, a young boy named Alex stumbled upon an extraordinary sight: a diminutive door, aglow with an ethereal light, concealed behind a towering bookshelf. This unexpected discovery ignited within him a profound sense of curiosity and wonder. The door, adorned with intricate carvings that seemed to dance in the soft luminescence, beckoned him with an allure that was impossible to resist.
+
+As he gazed upon this enchanting portal, Alex's imagination soared, contemplating the myriad of magical realms that might lie beyond its threshold. Would it lead him to a land inhabited by fantastical creatures, or perhaps a realm where time flowed differently, allowing for adventures beyond his wildest dreams? The possibilities were as boundless as the stars in the night sky.
+
+With a heart full of anticipation and a spirit eager for exploration, Alex stood before the glowing door, poised to embark on a journey that would forever alter the course of his young life. In that moment, he understood that the world was filled with mysteries waiting to be unveiled, and he was determined to uncover the secrets that lay beyond this captivating entrance.
+
+=== HUMOROUS STYLE ===
+Once upon a time, in a land that smelled suspiciously like old socks and dusty encyclopedias, there lived a boy named Alex—a curious lad with a nose for adventure and an uncanny knack for finding trouble. One fateful afternoon, while rummaging through the depths of his attic (a place where even dust bunnies feared to tread), he stumbled upon a tiny, glowing door wedged between a stack of “How to Train Your Goldfish” books. 
+
+“Hmm,” he pondered, scratching his head like a confused chicken. “What could possibly be behind this pint-sized portal? A realm of unicorns? A land of talking pizza?!” 
+
+His imagination ran wilder than a caffeinated squirrel, and with a nervous gulp, he reached for the doorknob—only to discover it was the size of a peanut. “Great! Just my luck! A door made for ants,” he grumbled. 
+
+But after a bit of twisting, tugging, and possibly some interpretive dance moves, the door swung wide open, revealing… a world filled with sock puppets hosting a talent show. “Oh no, not another singing sock!” Alex exclaimed, as he knew his fate was sealed. 
+
+And so, the curious boy stepped through, ready to join the sock-tastic shenanigans!
+
+=== SUSPENSEFUL STYLE ===
+In the dim light of the attic, shadows danced ominously around Alex as he rummaged through forgotten relics of the past. Dust motes swirled in the air, but it was a faint, otherworldly glow that caught his eye—nestled behind the creaking bookshelf, a tiny door shimmered like an unearthly beacon. His pulse quickened, each heartbeat echoing in the stillness, drowning out the muffled creaks of the old house.
+
+“What lies beyond?” he whispered, his voice trembling with a mix of intrigue and trepidation. The door, adorned with intricate carvings, beckoned him closer, its light pulsating rhythmically, as if alive. A chill crawled down his spine, a warning from the depths of his instincts.
+
+He hesitated, the weight of the unknown pressing down on him. What secrets could it unveil? What dangers lurked beyond the threshold? The attic seemed to hold its breath, waiting for his decision. With a trembling hand, he reached for the doorknob, a surge of adrenaline coursing through him. 
+
+The door creaked open, revealing a darkness that threatened to swallow him whole. Every fiber of his being screamed to turn back, yet curiosity propelled him forward into the abyss.
+=== STORY RUN (2025-12-24 16:28:24) ===
+User Input: A little boy named Tom found a small, shiny key in his backyard. He wondered what door it could open.
+Styles Chosen: horror
+
+--- HORROR ---
+In the dim light of a fading afternoon, a little boy named Tom stumbled upon a small, shiny key buried among the withering leaves in his backyard. Its metallic surface glinted like a wicked beacon, beckoning him closer with a sinister allure. As he grasped it with trembling fingers, a chill crawled down his spine, whispering of secrets untold.
+
+"What door could you unlock?" he pondered aloud, the question hanging heavily in the cool, still air around him. The fading sunlight flickered as if wincing in dread, as shadows stretched unnaturally across the ground, twisting and curling like phantom fingers reaching for the key.
+
+Tom's heart raced, a drumbeat of dread echoing in his ears. He felt the weight of unseen eyes upon him, lurking just beyond the edge of twilight. The air thickened, suffocated by a sense of foreboding. With each step he took, the world around him grew more oppressive; the once-familiar backyard transformed into a labyrinth of darkness where horrors hiding in plain sight stirred restlessly.
+
+Driven by an insatiable curiosity—compounded by the deepening gloom—he ventured forth, searching for the door that would give life to the key's dark promise. But what awaited him in the shadows? Would it be a passage into a realm of whispered horrors, or perhaps a gateway to something far worse, where the echoes of lost souls lingered in the air, waiting to devour the innocent?
+
+Tom’s heart thudded in his chest as he approached the old, gnarly tree at the edge of the yard, its gnarled roots twisting like ancient serpents. He felt it then—the pulse of something sinister beneath the earth. The key throbbed in his grip, urging him closer to the darkness that waited, hungry for the unwary.
+
+With a shuddering breath, he steeled himself, knowing that whatever door the key might open, he would face it alone, and the truth behind that shiny key would either enlighten him or ensnare him in its terrible embrace forever.
+
+==================================================
+
+=== STORY RUN (2025-12-24 16:30:22) ===
+User Input: my name is laiba im 22 years old im a good girl
+Styles Chosen: poetic, formal
+
+--- POETIC ---
+In the dawn of life, at twenty-two I stand,  
+My name is Laiba, with dreams like grains of sand.  
+A spirit pure, a heart so bright,  
+In a world of shadows, I seek the light.  
+
+With kindness woven in every thread,  
+I tread a path where others may dread.  
+With laughter like a melody, sweet and clear,  
+In the dance of existence, I hold no fear.  
+
+A good girl, yes, with hopes that soar,  
+Embracing the journey, forever wanting more.  
+As the sun paints the sky in hues of gold,  
+Through stories of life, my spirit unfolds.
+
+--- FORMAL ---
+My name is Laiba, and I am twenty-two years of age. I strive to embody the qualities of a virtuous individual.
+
+==================================================
+
+=== STORY RUN (2025-12-24 16:32:58) ===
+User Input: no
+Styles Chosen: poetic
+
+--- POETIC ---
+It seems there was a hiccup, a whisper of a tale,  
+Yet no story to unfold, no narrative to unveil.  
+But fear not, dear listener, for in silence we find,  
+The spark of creation, the magic intertwined.  
+
+Imagine a world where the sun gently glows,  
+Where rivers sing softly and the wildflower grows.  
+In this realm of wonder, let our minds take flight,  
+For every unwritten story yearns to ignite.  
+
+So let us weave verses, let our spirits soar,  
+In the heart of the silence, let our imaginations roar.  
+For though no tale is given, let our voices sing,  
+In the infinite canvas where dreams take wing.
+
+==================================================
+
+=== STORY RUN (2025-12-24 16:35:37) ===
+User Input: \
+Styles Chosen: exit
+
+--- EXIT ---
+Of course! Please provide the story you'd like me to rewrite in a specific style.
+
+==================================================
+
+=== STORY RUN (2025-12-24 16:36:07) ===
+User Input: 200
+Styles Chosen: poetric
+
+--- POETRIC ---
+In the heart of the wild where shadows play,  
+A tale unfolds of courage today.  
+Brave little Emily, with dreams held high,  
+Set forth with a spirit that could touch the sky.  
+
+With a map in her hand and a glimmering spark,  
+She stepped into realms where adventure would hark.  
+Through forests dense and rivers that gleam,  
+She chased after whispers and followed her dream.  
+
+Yet darkness loomed with a worrisome snare,  
+A fierce storm approached, filling hearts with despair.  
+But Emily, steadfast, with fire in her soul,  
+Knew deep in her heart, she must take control.  
+
+With each gust of wind, with each drop of rain,  
+She danced through the tempest, embracing the pain.  
+For within every struggle, a lesson would grow,  
+And through every challenge, her true strength would show.  
+
+At last, she emerged, the clouds parted wide,  
+With a heart full of hope, she stood with great pride.  
+For the journey was long, but the wisdom and grace,  
+Carved bravery's tale across time and space.  
+
+So let us remember, when storms seem to rise,  
+With courage like Emily, we too can touch skies.  
+For dreams are like stars, though distant they seem,  
+With persistence and heart, we can follow our dream.
+
+==================================================
+
+=== STORY RUN (2025-12-24 16:36:59) ===
+User Input: "The quick brown fox jumps over the lazy dog. آج موسم بہت اچھا ہے اور میں باہر سیر کے لیے جا رہا ہوں
+Styles Chosen: poetic, formal
+
+--- POETIC ---
+In fields where whispers twine, a fox of brown so fleet,  
+With nimble grace, it leaps and bounds, on paws that dance to beat.  
+The lazy dog sprawls, basking 'neath the golden sun’s embrace,  
+While fragrant blooms in gentle breeze invite a leisurely pace.  
+
+Today’s the day—a wondrous time, the weather sings with cheer,  
+I tread the paths of nature’s heart, the world alive and clear.  
+So onward I shall wander forth, where joy and beauty meet,  
+In this embrace of warmth and light, my worries feel defeat.
+
+--- FORMAL ---
+The agile brown fox leaps gracefully over the indolent canine. The weather today is exceptionally pleasant, and I am preparing to embark on a leisurely stroll outdoors.
+
+==================================================
+
+[2025-12-26 11:12:11]
+Story: im laiba a girl
+Styles: poetric
+
+POETRIC:
+In the quiet of the dawn, there stands a girl,  
+Her name is Laiba, in a world that twirls.  
+With dreams like stars, she dances through the day,  
+A spirit so bright, lighting up the way.  
+
+Her laughter rings like chimes in the breeze,  
+In gardens of hope, where joy finds ease.  
+With every step, she weaves a tale,  
+Of courage and grace, where hearts prevail.  
+
+In the tapestry of life, she plays her part,  
+With kindness and love, she conquers the heart.  
+Oh, Laiba, a girl with a spirit so free,  
+A beacon of light for all who can see.
+
+--------------------------------------------------
